@@ -1,0 +1,15 @@
+{
+  "name": "forge-model-parser-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Let's Code, Nico_44",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "enquirer": "^2.4.1",
+    "fs": "^0.0.1-security"
+  }
+}
